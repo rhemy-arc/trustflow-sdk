@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/client-wide-timeouts",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/client-wide-timeouts": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/client-wide-timeouts",
+    "origin"
+  ]
+}
